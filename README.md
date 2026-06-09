@@ -7,11 +7,10 @@
 </p>
 
 <p align="center">
-  <!-- TODO: replace the # with your real LinkedIn URL -->
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ramakrishnamummidi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ramakrishna.smilodon@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <!-- TODO: replace the # with your LeetCode profile URL -->
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://leetcode.com/u/Ramakrishna1869/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.geeksforgeeks.org/profile/ramakrishnj603"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
 
 ---
